@@ -1,1 +1,1 @@
-# JAVA-University-Management
+# JAVA-Gym-Management-System
